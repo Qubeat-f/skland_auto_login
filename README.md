@@ -4,6 +4,8 @@
 
 本项目已改造为 **GitHub Actions 定时运行**，无需 Docker、无需服务器常驻。
 
+fork from https://github.com/kafuneri/Skland-Sign-In
+
 ## 功能特性
 
 - 支持单账号和多账号签到
